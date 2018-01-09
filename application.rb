@@ -4,4 +4,4 @@ require_relative './lib/plateau'
 require_relative './lib/controller'
 
 
-Controller.new.run_app_v2
+Controller.new.run_app
